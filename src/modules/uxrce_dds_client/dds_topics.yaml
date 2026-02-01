@@ -81,7 +81,7 @@ publications:
     type: px4_msgs::msg::HomePosition
 
   - topic: /fmu/out/input_rc
-    type: px4_msgs::msg::InputRC
+    type: px4_msgs::msg::InputRc
 
 # Create uORB::Publication
 subscriptions:
